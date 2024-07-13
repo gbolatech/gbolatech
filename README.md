@@ -9,4 +9,4 @@
 Let's Connect
 📫 How to reach me:
 📧 sorinadegbolahan@gmail.com
-👉 LinkedIn: (link unavailable)
+👉 LinkedIn: (www.linkedin.com/in/sorinade-gbolahan-a50191269)
