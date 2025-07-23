@@ -1,12 +1,13 @@
-👨🏽‍💼 My Name is Sorinade Gbolahan
-🎓 I studied Industrial and Production Engineering at FUTA (Federal University of Technology, Akure).
-📊 After graduating, I transitioned into web design, specializing in:
-📈 WordPress
-📈 Wix
-📈 Shopify
-📈 LMS websites using (canvas lms ,moodle,thinkfic,worpress)
-🔍 Currently, I'm expanding my skills in Moodle development.
-Let's Connect
-📫 How to reach me:
-📧 sorinadegbolahan@gmail.com
-👉 LinkedIn: (www.linkedin.com/in/sorinade-gbolahan-a50191269)
+Description
+🚀 Founder & Tech Creative at Innolink_Hubs | WordPress Wizard | UI/UX Explorer
+
+I design digital solutions that connect, inspire, and scale. Whether it’s building sleek websites with WordPress, designing intuitive LMS experiences, or writing clean code that just works — I’m always pushing the edge of function and form.
+
+🛠️ Tools of choice: WordPress, Elementor, Astra, LearnDash, Figma, HTML/CSS, Git
+
+Let’s build something boldly innovative.
+
+💡 Currently building global platforms for education and creativity.
+
+✨ Ideas > Code > Impact
+
